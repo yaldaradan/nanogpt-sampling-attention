@@ -33,10 +33,6 @@ Open `nanogpt_sampling_attention.ipynb` and run the cells in order:
 4. **Train**: 3 layers, 8 heads, 768-dim embeddings, block size 128, 10,000 iterations.
 5. **Sample**: runs the temperature × strategy comparison.
 
-## Results
-
-<!-- Add attention-map images (e.g. images/causal_head0.png, images/noncausal_head0.png)
-     and a short table of samples from the comparison here. -->
 
 ## Credits
 
